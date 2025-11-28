@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a1f4c3d2-7e89-4c12-9ab1-448ff12a9001",
+    "titulo": "Desarrollador Frontend",
+    "empresa": "Digital Wave",
+    "ubicacion": "Remoto",
+    "descripcion": "Estamos en búsqueda de un desarrollador frontend con experiencia en interfaces modernas y dominio de React y JavaScript.",
+    "data": {
+      "technology": ["react", "javascript"],
+      "modalidad": "remoto",
+      "nivel": "senior"
+    }
+  },
+  {
+    "id": "b92d70c4-21f3-4022-97fa-3aeabf55ce82",
+    "titulo": "Ingeniero Backend",
+    "empresa": "Cloud Nexus",
+    "ubicacion": "CDMX",
+    "descripcion": "Se requiere ingeniero backend con sólidos conocimientos en Python y Node para construir microservicios escalables.",
+    "data": {
+      "technology": ["python", "node"],
+      "modalidad": "cdmx",
+      "nivel": "mid-level"
+    }
+  },
+  {
+    "id": "c88e10ac-9346-4f49-8f85-d8c2a1ff0b32",
+    "titulo": "Programador Full Stack",
+    "empresa": "Innovatech",
+    "ubicacion": "Guadalajara",
+    "descripcion": "Buscamos un programador full stack con capacidad de manejar tanto frontend como backend usando JavaScript y Java.",
+    "data": {
+      "technology": ["javascript", "java"],
+      "modalidad": "guadalajara",
+      "nivel": "junior"
+    }
+  },
+  {
+    "id": "d7ab33fa-55af-44af-8b3a-fde2391a92fa",
+    "titulo": "Software Engineer",
+    "empresa": "Blue Horizon Labs",
+    "ubicacion": "Monterrey",
+    "descripcion": "Responsable de diseñar y mantener APIs utilizando Node y JavaScript. Trabajo en equipos ágiles altamente colaborativos.",
+    "data": {
+      "technology": ["node", "javascript"],
+      "modalidad": "monterrey",
+      "nivel": "mid-level"
+    }
+  },
+  {
+    "id": "e44f2bd1-9120-4bd0-9c0e-0eae21b57493",
+    "titulo": "Backend Developer",
+    "empresa": "GlobalSoft",
+    "ubicacion": "Barcelona",
+    "descripcion": "Puesto orientado a desarrollo backend utilizando Python y Java en aplicaciones de alto rendimiento.",
+    "data": {
+      "technology": ["python", "java"],
+      "modalidad": "barcelona",
+      "nivel": "senior"
+    }
+  }
+]
